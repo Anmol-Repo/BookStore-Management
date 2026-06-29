@@ -22,7 +22,7 @@ A **Spring Boot web application** for managing a bookstore. It provides features
 
 ## Tech Stack
 
-* **Backend:** Spring Boot, Spring Web
+* **Backend:** Spring Boot, Spring Web 
 * **Frontend:** Thymeleaf
 * **Database:** MySQL
 * **ORM:** Spring Data JPA / Hibernate
@@ -42,3 +42,4 @@ A **Spring Boot web application** for managing a bookstore. It provides features
 * MySQL Driver
 
 ---
+
